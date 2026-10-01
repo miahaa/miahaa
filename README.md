@@ -17,7 +17,7 @@ MIA://CAREER_TERMINAL
 
 EDUCATION    University of Utah
 MAJOR        Computer Science
-FOCUS        Finance / FinTech / Quant
+FOCUS        Finance / FinTech / Quant / Math
 INTERESTS    Risk · Financial Data · Valuation · Analytics
 ```
 
