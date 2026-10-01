@@ -1,10 +1,10 @@
 <div align="center">
 
-# Mia Ha
+# MIA HA
 
-### Computer Science × Finance × FinTech
+### CS × FINANCE × FINTECH
 
-Building at the intersection of software, financial analysis, and quantitative problem solving.
+`BUILDING FINANCIAL SYSTEMS WITH CODE + DATA`
 
 [Portfolio](https://github.com/miahaa/portfolio) · [Portfolio Risk Lab](https://github.com/miahaa/portfolio-risk-lab)
 
@@ -12,61 +12,120 @@ Building at the intersection of software, financial analysis, and quantitative p
 
 ---
 
-## About Me
+```text
+MIA://CAREER_TERMINAL
 
-I'm a Computer Science student at the University of Utah with academic interests in mathematics and FinTech. I'm currently expanding my software engineering background into financial analysis, quantitative finance, and financial technology.
+EDUCATION    University of Utah
+MAJOR        Computer Science
+FOCUS        Finance / FinTech / Quant
+INTERESTS    Risk · Financial Data · Valuation · Analytics
+```
 
-My goal is to combine programming and analytical thinking to build tools that answer practical financial questions, from measuring portfolio risk to analyzing companies and financial data.
-
-## Featured Project
+## > CURRENT BUILD
 
 ### Portfolio Risk & Analytics Lab
 
-A Python-based quantitative finance project that analyzes historical stock performance and portfolio risk.
+Python-based quantitative finance project focused on portfolio construction, risk measurement, benchmark analysis, and Monte Carlo simulation.
 
-**What it currently covers**
-- Historical market data with `yfinance`
-- Daily and annualized returns
-- Annualized volatility
-- Sharpe ratio
-- Maximum drawdown
-- Correlation and covariance analysis
-- Equal-weight portfolio construction
-- Growth of a $10,000 investment
-- Portfolio risk visualizations
+| Metric | Equal Weight | S&P 500 |
+| --- | ---: | ---: |
+| Historical $10K ending value | $43,539 | $20,676 |
+| Annualized return | 27.80% | 14.07% |
+| Annualized volatility | 20.29% | 16.51% |
+| Sharpe ratio | 1.17 | 0.61 |
 
-**Tools:** Python · pandas · NumPy · Matplotlib · yfinance
+> Historical analysis only. Results are not forecasts of future performance.
 
-[View Portfolio Risk Lab →](https://github.com/miahaa/portfolio-risk-lab)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/miahaa/portfolio-risk-lab/main/images/portfolio_optimization.png" width="820" alt="Portfolio optimization chart">
+</p>
 
-## What I'm Building Next
+**Inside the project**
 
-I'm developing a finance-focused project portfolio that combines my CS background with practical financial analysis.
+`returns` · `volatility` · `Sharpe ratio` · `drawdown` · `correlation` · `beta` · `CAPM` · `Jensen's alpha` · `Monte Carlo simulation`
 
-| Project | Focus | Status |
-| --- | --- | --- |
-| Portfolio Risk & Analytics | Returns, volatility, Sharpe ratio, drawdown, diversification | In progress |
-| Equity Valuation | Financial statements, DCF, comparable-company analysis | Planned |
-| FinTech Data Project | Python, SQL, financial data analysis | Planned |
+**Stack**
 
-## Technical Toolkit
+`Python` · `pandas` · `NumPy` · `Matplotlib` · `yfinance`
 
-**Programming:** Python · C# · Java · C++ · JavaScript · HTML/CSS
+[Open Portfolio Risk & Analytics Lab →](https://github.com/miahaa/portfolio-risk-lab)
 
-**Data & Analysis:** pandas · NumPy · Matplotlib
+---
 
-**Currently developing:** Financial modeling · SQL · Valuation · Portfolio analysis
+## > PROJECT PIPELINE
 
-## Current Focus
+```text
+PROJECT_01   Portfolio Risk & Analytics   [ COMPLETE ]
+PROJECT_02   Equity Valuation             [ NEXT     ]
+PROJECT_03   Financial Data / FinTech     [ PLANNED  ]
+```
 
-I'm strengthening my foundation in accounting, corporate finance, valuation, portfolio theory, and financial data analysis while continuing to build projects that demonstrate those skills.
+| Project | What I want to demonstrate |
+| --- | --- |
+| Portfolio Risk & Analytics | Risk, diversification, benchmarking, quantitative analysis |
+| Equity Valuation | Financial statements, DCF, comparable companies |
+| Financial Data / FinTech | Python, SQL, financial datasets, analytics |
 
-I'm especially interested in opportunities involving financial analysis, FinTech, risk, financial data, and quantitative analysis.
+---
+
+## > TOOLKIT
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Code
+
+`Python`  
+`C#`  
+`Java`  
+`C++`  
+`JavaScript`  
+`HTML / CSS`
+
+</td>
+<td valign="top" width="33%">
+
+### Data
+
+`pandas`  
+`NumPy`  
+`Matplotlib`  
+`SQL — learning`
+
+</td>
+<td valign="top" width="33%">
+
+### Finance
+
+`Portfolio Analysis`  
+`Risk Metrics`  
+`CAPM`  
+`Valuation — learning`  
+`Financial Modeling — learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+## > ABOUT
+
+I'm a Computer Science student at the University of Utah building toward finance, FinTech, risk, financial data, and quantitative roles.
+
+My projects focus on one idea:
+
+> use code to turn financial data into decisions that can be explained clearly.
+
+Right now I'm strengthening my foundation in accounting, corporate finance, valuation, portfolio theory, and financial data analysis while building projects that connect those concepts with software.
 
 ---
 
 <div align="center">
 
-### Build. Analyze. Understand the numbers.
+```text
+BUILD → ANALYZE → EXPLAIN
+```
 
 </div>
